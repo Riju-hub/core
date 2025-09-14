@@ -1,0 +1,78 @@
+#container{
+    height: 500px;
+    width: 800px;
+    margin: 30px auto;
+    border: 2px solid black;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    /* flex-wrap: wrap; */
+    text-align:center;
+    align-items: center;
+    justify-content: baseline;
+    align-content: baseline;
+}
+#h1{
+    text-align: center;
+    color: black;
+    font-size: 30px;
+    font-weight: bold;
+}
+#violet{
+    color: white;
+    font-size: large;
+    background-color: violet;
+    height: 100px;
+    width: 200px;
+    /* align-self: baseline; */
+    /* flex-basis: 200px; */
+    /* flex-grow: 1; */
+    /* max-width: 400px; */
+    /* min-height: 400px; */
+    /* flex-shrink: 1; */
+    flex: 200px;
+}
+#indigo{
+     color: white;
+    font-size: 2em;
+    background-color: indigo;
+    height: 150px;
+    width: 200px;
+    /* flex-shrink: 1; */
+    flex: 300px;
+}
+#blue{
+     color: white;
+    font-size: large;
+    background-color: blue;
+    height: 100px;
+    width: 200px;
+}
+#green{
+     color: white;
+    font-size: large;
+    background-color: green;
+    height: 100px;
+    width: 200px;
+}
+#yellow{
+     color: white;
+    font-size: large;
+    background-color: yellow;
+    height: 100px;
+    width: 200px;
+}
+#orange{
+     color: white;
+    font-size: large;
+    background-color: orange;
+    height: 100px;
+    width: 200px;
+}
+#red{
+     color: white;
+    font-size: large;
+    background-color: red;
+    height: 100px;
+    width: 200px;
+}

@@ -1,0 +1,16 @@
+div{
+    margin: 5px;
+    height: 100px;
+    width: 100px;
+    background-color: aqua;
+    margin: 0 auto;
+    transition: transform 0.4s ease-in-out 0.3s;
+    display: inline-block;
+}
+div:hover{
+    box-shadow: 12px 12px 30px rgba(0,0,255,0.5);
+    transform: scale(2,2) translate(100px,100px);
+    border-radius: 50%;
+    background-image: url(https://media.istockphoto.com/id/1345674674/photo/daily-boat-tour-blue-voyage-yacht-tour.jpg?s=612x612&w=0&k=20&c=HleWHY5U6QbTHhZ_DN36l8pVjNToLp-gJZThQgS2ADA=);
+    background-size: cover;
+}

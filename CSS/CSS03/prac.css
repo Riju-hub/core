@@ -1,0 +1,26 @@
+#outer{
+    width: 400px;
+    height: 400px;
+    background-color: #e97c7c;
+    border: 2px solid black;
+    font-size: 20px;
+}
+#inner{
+    height: 100px;
+    width: 200px;
+    background-color: #ccc;
+    font-size: 2em;
+    padding: 1em;
+}
+button{
+    font-size: 50px;
+    border-radius: 5%;
+    padding: 1em;
+    margin: 1em;
+}
+/* html{
+    font-size: 16px;
+} */
+div{
+    font-size: 2rem;
+}

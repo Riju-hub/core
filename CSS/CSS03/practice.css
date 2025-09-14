@@ -1,0 +1,48 @@
+#outer{
+    height: 200px;
+    width: 70px;
+    border: 2px solid black;
+    padding: 2px;
+}
+/* div{
+    height: 50px;
+    width: 50px;
+    border: 2px solid black;
+    margin: 10px;
+} */
+#inner1,#inner2,#inner3{
+    border-radius: 50%;
+}
+#inner1{
+    background-color: #f00;
+}
+#inner2{
+    background-color: #ff0;
+}
+#inner3{
+    background-color: #0f0;
+}
+h1{
+    display: inline-block;
+    background-color: aqua;
+    border: 2px solid black;
+    height: 20px;
+    width: 2px;
+    padding:5px;
+    margin: 2px;
+}
+h2{
+    border: 2px solid black;
+    width: 50%;
+}
+#outer3{
+    height: 100px;
+    width: 100px;
+    background-color: #f0f;
+}
+#inner4{
+    height: 50px;
+    width: 50px;
+    background-color: #0ff;
+    margin: 10%;
+}

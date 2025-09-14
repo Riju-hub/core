@@ -1,0 +1,9 @@
+div{
+    background-color:blueviolet;
+}
+input,button{
+    background-color: inherit;
+}
+button:hover{
+    background-color: lightblue;
+}
